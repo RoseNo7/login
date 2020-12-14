@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+.header {
+	height: 190px;
+	padding: 70px;
+}
+
+#content {
+	width: 400px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+fieldset {
+	width: 400px;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.input_area {
+	width: 400px;
+}
+
+.input_area input {
+	width: 94%;
+	padding: 20px 10px 10px;
+	border-color: #eee;
+	font-size: 18px;
+	color: #000;
+	margin-bottom: 10px;
+}
+
+.btn_area {
+	margin-top: 5px;
+}
+
+.btn_area button {
+	width: 100%;
+	height: 50px;
+	color: #fff;
+	font-size: 20px;
+	background: #1C3368;
+	border: none;
+	border-color: #1C3368;
+	border-radius: 5px;
+}
+
+.caption {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.caption a {
+	font-size: 15px;
+	color: #999;
+	text-decoration: none;
+}

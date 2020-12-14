@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.header {
+	height: 50px;
+	padding: 70px;
+}
+
+fieldset {
+	width: 300px;
+	margin: 0 auto;
+	padding: 30px;
+}
